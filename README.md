@@ -4,3 +4,4 @@
 - masterへのコミット2
 - developへのコミット1
 - developへのコミット2
+- masterへのhotfix
