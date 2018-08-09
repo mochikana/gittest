@@ -5,3 +5,5 @@
 - developへのコミット1
 - developへのコミット2
 - masterへのhotfix
+
+- 追加開発
